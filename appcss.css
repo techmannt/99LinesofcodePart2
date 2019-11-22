@@ -1,0 +1,19 @@
+body {
+  background-color: darkred;
+}
+
+h1 {
+  color: white;
+}
+
+.friend {
+  background-color: indigo;
+}
+
+.friend > h3 {
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 1.5em;
+}
